@@ -1,0 +1,17 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {},
+        "org.apache.cordova.device": {},
+        "org.apache.cordova.device-orientation": {},
+        "org.apache.cordova.vibration": {},
+        "org.apache.cordova.device-motion": {}
+    },
+    "dependent_plugins": {}
+}

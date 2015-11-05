@@ -1,0 +1,11 @@
+{"RutasElBosque":
+[
+  {"Rutas":[
+{"Recorrido":"Chia","Hora":"8:00 AM","Disponibilidad":8,"IdRuta":123,"IdRutaHora":1234},
+{"Recorrido":"Usaquen","Hora":"11:00 AM","Disponibilidad":2,"IdRuta":124,
+"IdRutaHora":12345}
+]
+  }
+  ]
+}
+  
